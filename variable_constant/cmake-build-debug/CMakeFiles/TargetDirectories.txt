@@ -1,0 +1,3 @@
+G:/Education-Course/Udemy/Beginning C++ - Tim Buchalka & Frank Mitropoulos/variable_constant/cmake-build-debug/CMakeFiles/variable_constant.dir
+G:/Education-Course/Udemy/Beginning C++ - Tim Buchalka & Frank Mitropoulos/variable_constant/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Education-Course/Udemy/Beginning C++ - Tim Buchalka & Frank Mitropoulos/variable_constant/cmake-build-debug/CMakeFiles/rebuild_cache.dir

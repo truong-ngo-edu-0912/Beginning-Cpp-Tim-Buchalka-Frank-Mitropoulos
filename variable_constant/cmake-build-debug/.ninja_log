@@ -1,0 +1,7 @@
+# ninja log v6
+12	616	7638150145200000	CMakeFiles/variable_constant.dir/main.cpp.obj	baa6dd4cae622aa
+877	1108	7638155040000000	variable_constant.exe	99e6b9d0ca65911c
+5	468	7638168120000000	build.ninja	371f27c15a6edf01
+50	876	7638155006900000	CMakeFiles/variable_constant.dir/variable.cpp.obj	628c98b9ab82c289
+4	862	7638168233600000	CMakeFiles/variable_constant.dir/constant.cpp.obj	95ecdf423eff8e8
+866	1241	7638168260000000	variable_constant.exe	76b7473cc6fd3692
