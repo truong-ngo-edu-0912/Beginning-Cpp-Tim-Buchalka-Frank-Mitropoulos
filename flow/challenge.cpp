@@ -103,7 +103,7 @@ void run() {
             case 'M': handlerM(numbers); break;
             case 'S': handlerS(numbers); break;
             case 'L': handlerL(numbers); break;
-            case 'Q': return;
+            case 'Q': cout << "Goodbye" << endl; return;
             default: cout << "Invalid choice!" << endl;
         }
     }
