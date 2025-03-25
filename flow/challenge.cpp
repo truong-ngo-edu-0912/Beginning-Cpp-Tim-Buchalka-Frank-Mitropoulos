@@ -3,6 +3,7 @@
 #include <string>
 #include <limits>
 #include <algorithm>
+#include <string.h>
 
 using namespace std;
 
@@ -110,6 +111,19 @@ void run() {
 }
 
 int main() {
-    run();
+    // run();
+    char first_name[80] {};
+    strcpy(first_name, "Bjarne");
+    char last_name[80] {};
+    strcpy(last_name, "Stroustrup");
+    char whole_name[170] {};
+    strcpy(strcat(first_name, last_name), whole_name);
+    size_t first_name_length = strlen(first_name);
+    size_t last_name_length = strlen(last_name);
+    size_t whole_name_length = strlen(whole_name);
+    //----WRITE YOUR CODE ABOVE THIS LINE----
+    //----DO NOT MODIFY THE CODE BELOW THIS LINE----
+
+    cout << "The length of the first name, " << first_name << ", is " << first_name_length << " letters long and the length of the last name, " << last_name << ", is " << last_name_length << " letters long. This means that the length of the whole name must be " << whole_name_length << " letters long.";
     return 0;
 }
